@@ -1,2 +1,2 @@
-学籍番号 : 25445024
-アドレス : 
+#学籍番号 : 25445024
+#URL : git@github.com:rumikawakami/kadai4.git 
